@@ -1,16 +1,19 @@
-### Hi there 👋
+### Oi, me chamo Lucas 👋
 
-<!--
-**lucasnegri/lucasnegri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Buscando capacitação na área de Front-End
 
-Here are some ideas to get you started:
+##### Agora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Focado em me especializar para ingressar no mercado de trabalho.
+- 🇵🇹  Falo português e inglês.
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 Atualemnte, estou terminando curso Front-End Alura para começar um CS50 Harvard.
+- ⚙️ Diariamente eu uso:`.js`, `.html`, `.css`, `.psd`, `.ai`
+- 🌍 Almejo trabalhar remotamente para assim conseguir viajar o mundo.
+- 🌱 Aprendendo Javascript 
+- 💬 Tenho conhecimento em **front end**, **design**, **ux design**, **design thinking**, **agile method**, 
+- 📫 Meu LinkedIn: www.linkedin.com/in/lucas-negrii
+- ⚡️ Nas horas vagas, gosto de sair com amigos, assistir filmes e ler livros.
