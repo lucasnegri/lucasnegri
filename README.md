@@ -12,11 +12,11 @@
 ##### BIO
 
 - 📄 Courses done: 
-      -Beginner in programming / Alura
-      -Responsive Web Design / FreeCodeCamp
-      -Front-end Formation / Alura
-      -Web Acessibility Formation / Alura
-      -UX Design Formation / Alura
+      -Beginner in programming / Alura  
+      -Responsive Web Design / FreeCodeCamp  
+      -Front-end Formation / Alura  
+      -Web Acessibility Formation / Alura  
+      -UX Design Formation / Alura  
 
 - 📑 Next steps: 
       -Fullstack Javascript / TheOdinProject
