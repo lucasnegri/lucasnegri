@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Focused on specializing to enter the job market.
-- 🇵🇹  Knowledge in English, portuguese and spanish.
+- 🇵🇹   Knowledge in English, portuguese and spanish.
 - 🌱 Learning Javascript > TypeScript > React.Js/Bootstrap
 
 
