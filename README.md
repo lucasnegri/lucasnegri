@@ -1,29 +1,29 @@
-### Oi, me chamo Lucas 👋
+### Hi, my name is Lucas 👋
 
-#### Buscando capacitação na área de Front-End
+#### Looking for Front End Programmer
 
-##### Agora
+##### NOW
 
-- ✨ Focado em me especializar para ingressar no mercado de trabalho.
-- 🇵🇹  Falo português e inglês.
-- 🌱 Aprendendo Javascript > TypeScript > React.Js/Bootstrap
+- ✨ Focused on specializing to enter the job market.
+- 🇵🇹  Knowledge in English, portuguese and spanish.
+- 🌱 Learning Javascript > TypeScript > React.Js/Bootstrap
+
+
 ##### BIO
 
-- 📄 Cursos que concluí: 
-      -Iniciante em Programação / Alura
+- 📄 Courses done: 
+      -Beginner in programming / Alura
       -Responsive Web Design / FreeCodeCamp
-      -Formação Front-end / Alura
-      -Formação Acessibilidade Web / Alura
-      -Formação UX Design / Alura
+      -Front-end Formation / Alura
+      -Web Acessibility Formation / Alura
+      -UX Design Formation / Alura
 
-- 📑 Cursos que irei iniciar: 
+- 📑 Next steps: 
       -Fullstack Javascript / TheOdinProject
       -CS50: Introduction to Computer Science / Harvard
       
-      
-      
-- ⚙️ Diariamente uso:`.js`, `.html`, `.css`, `.psd`, `.ai`
-- 🌍 Almejo trabalhar remotamente para assim conseguir viajar o mundo.
-- 💬 Tenho conhecimento em **front end**, **design**, **ux design**, **design thinking**, **agile method**, 
-- 📫 Meu LinkedIn: www.linkedin.com/in/lucas-negrii
-- ⚡️ Nas horas vagas, gosto de sair com amigos, assistir filmes e ler livros.
+            
+- ⚙️ Daily usage of: `.js`, `.html`, `.css`, `.psd`, `.ai`
+- 💬 Knowledge in **front end**, **design**, **ux design**, **design thinking**, **agile method**, 
+- 📫 LinkedIn: www.linkedin.com/in/lucas-negrii
+- ⚡️ In my spare time, I like to go out with friends, watch movies and read books.
