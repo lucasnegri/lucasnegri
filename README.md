@@ -11,16 +11,16 @@
 
 ##### BIO
 
-- 📄 Courses done: 
+- 📄 Courses done:   
       -Beginner in programming / Alura  
       -Responsive Web Design / FreeCodeCamp  
       -Front-end Formation / Alura  
       -Web Acessibility Formation / Alura  
       -UX Design Formation / Alura  
 
-- 📑 Next steps: 
-      -Fullstack Javascript / TheOdinProject
-      -CS50: Introduction to Computer Science / Harvard
+- 📑 Next steps:   
+      -Fullstack Javascript / TheOdinProject  
+      -CS50: Introduction to Computer Science / Harvard  
       
             
 - ⚙️ Daily usage of: `.js`, `.html`, `.css`, `.psd`, `.ai`
