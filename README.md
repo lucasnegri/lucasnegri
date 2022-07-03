@@ -18,8 +18,10 @@
       -Web Acessibility Formation / Alura  
       -UX Design Formation / Alura  
 
-- 📑 Next steps:   
+- 📑 At moment:   
       -Fullstack Javascript / TheOdinProject  
+      
+- 📑 After :
       -CS50: Introduction to Computer Science / Harvard  
       
             
