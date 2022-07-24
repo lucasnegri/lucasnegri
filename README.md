@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Focused on specializing to enter the job market.
-- 🇵🇹  Knowledge in English, portuguese and spanish.
+- 🇵🇹   Knowledge in English, portuguese and spanish.
 - 🌱 Learning Javascript > TypeScript > React.Js/Bootstrap
 
 
@@ -13,10 +13,13 @@
 
 - 📄 Courses done:   
       -Beginner in programming / Alura  
+      -Graphic Designer / Alura
+      -UX Design / Alura  
+      -Figma / Alura
+      -Web Acessibility / Alura
       -Responsive Web Design / FreeCodeCamp  
-      -Front-end Formation / Alura  
-      -Web Acessibility Formation / Alura  
-      -UX Design Formation / Alura  
+      -Front-end / Alura  
+      
 
 - 📑 At moment:   
       -Fullstack Javascript / TheOdinProject  
