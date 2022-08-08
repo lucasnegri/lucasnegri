@@ -1,15 +1,15 @@
 ### Hi, my name is Lucas 👋
 
-#### Studying to be a Front End Programmer
+### Studying to be a Front End Programmer
 
-##### NOW
+#### NOW
 
 - ✨ Focused on specializing to enter the job market.
 - 🇵🇹   Knowledge in English, portuguese and spanish.
 - 🌱 Learning Javascript > TypeScript > React.Js/Bootstrap
 
 
-##### BIO
+#### BIO
 
 - 📄 Courses done:   
       -Beginner in programming / Alura  
@@ -30,7 +30,7 @@
 - 📫 LinkedIn: www.linkedin.com/in/lucas-negrii
 - 💬 Knowledge in **front end**, **design**, **ux design**, **design thinking**, **agile method**, 
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
