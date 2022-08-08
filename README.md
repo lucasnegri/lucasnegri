@@ -40,3 +40,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/terminal-dark.svg" />
+<img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/800px-Photoshop_CC_icon.png" />
+<img align="left" alt="Illustrator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
+<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Notion_app_logo.png/120px-Notion_app_logo.png" />
+
