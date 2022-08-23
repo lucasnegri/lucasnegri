@@ -22,7 +22,9 @@
       
 
 - 📑 At moment: 
-      -Book "Algorithms and Logic for Computer Programming" - José Augusto Manzano 
+      -Book "Algorithms and Logic for Computer Programming" from José Augusto Manzano 
+      
+- 📑 Started:
       -Fullstack Javascript / TheOdinProject  
       
 - 📑 After :
