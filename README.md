@@ -21,7 +21,8 @@
       -Front-end / Alura  
       
 
-- 📑 At moment:   
+- 📑 At moment: 
+      -Book "Algorithms and Logic for Computer Programming" - José Augusto Manzano 
       -Fullstack Javascript / TheOdinProject  
       
 - 📑 After :
