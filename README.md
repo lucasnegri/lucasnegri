@@ -28,7 +28,7 @@
       -CS50: Introduction to Computer Science / Harvard  
 
 - 📫 LinkedIn: www.linkedin.com/in/lucas-negrii
-- 💬 Knowledge in **front end**, **design**, **ux design**, **design thinking**, **agile method**, 
+- 💬 Knowledge in **front end**, **design**, **ux design**, **design thinking**, **agile method**, **ux research**,
 
 #### Languages and Tools:
 
