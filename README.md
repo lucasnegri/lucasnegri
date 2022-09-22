@@ -22,7 +22,7 @@
       
 
 - 📑 At moment: 
-      -Book "Algorithms and Logic for Computer Programming" from José Augusto Manzano 
+      -Book "JavaScript Design Patterns" from Addy Osmand (O'Reilly)
       
 - 📑 Started:
       -Fullstack Javascript / TheOdinProject  
