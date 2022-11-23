@@ -23,6 +23,7 @@
 
 - 📑 At moment: 
       -Book "Thinking, Fast and Slow" from  Daniel Kahneman
+      
       -CS50: Introduction to Computer Science / Harvard  
       
       
