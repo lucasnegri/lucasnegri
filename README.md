@@ -22,14 +22,10 @@
       
 
 - 📑 At moment: 
-      -Book "JavaScript Design Patterns" from Addy Osmand (O'Reilly)
-      
-- 📑 Started:
-      -Fullstack Javascript / TheOdinProject  
-      
-- 📑 After :
+      -Book "Thinking, Fast and Slow" from  Daniel Kahneman
       -CS50: Introduction to Computer Science / Harvard  
-
+      
+      
 - 📫 LinkedIn: www.linkedin.com/in/lucas-negrii
 - 💬 Knowledge in **front end**, **design**, **ux design**, **design thinking**, **agile method**, **ux research**,
 
