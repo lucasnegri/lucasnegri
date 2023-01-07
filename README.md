@@ -19,13 +19,14 @@
       -Web Acessibility / Alura  
       -Responsive Web Design / FreeCodeCamp  
       -Front-end / Alura  
-      -CS50x: Introduction to Computer Science / Harvard
+      -CS50x: Introduction to Computer Science / Harvard  
+      
       
 
 - 📑 At moment: 
-      -Book "Thinking, Fast and Slow" from  Daniel Kahneman
-      
       -CS50w: Web Programming with Python and JavaScript  
+      
+ 
       
       
 - 📫 LinkedIn: www.linkedin.com/in/lucas-negrii
