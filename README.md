@@ -24,7 +24,7 @@
       
 
 - 📑 At moment:  
--     -CS50w: Web Programming with Python and JavaScript      
+      -CS50w: Web Programming with Python and JavaScript      
  
       
       
