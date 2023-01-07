@@ -19,8 +19,7 @@
       -Web Acessibility / Alura
       -Responsive Web Design / FreeCodeCamp  
       -Front-end / Alura
-      -CS50: Introduction to Computer Science / Harvard  
-      
+      -CS50: Introduction to Computer Science / Harvard 
 
 - 📑 At moment: 
       -Book "Thinking, Fast and Slow" from  Daniel Kahneman
