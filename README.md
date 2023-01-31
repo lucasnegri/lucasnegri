@@ -18,7 +18,7 @@
       -Responsive Web Design / FreeCodeCamp  
       -Front-end / Alura  
       -CS50x: Introduction to Computer Science / Harvard
-      -CS50w: Web Programming with Python and JavaScript
+      -CS50w: Web Programming with Python and JavaScript 
       
       
 
