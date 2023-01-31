@@ -12,14 +12,13 @@
 #### BIO
 
 - 📄 Courses done:   
-      -Beginner in programming / Alura  
       -Graphic Designer / Alura
       -UX Design / Alura  
-      -Figma / Alura
       -Web Acessibility / Alura  
       -Responsive Web Design / FreeCodeCamp  
       -Front-end / Alura  
-      -CS50x: Introduction to Computer Science / Harvard  
+      -CS50x: Introduction to Computer Science / Harvard
+      -CS50w: Web Programming with Python and JavaScript
       
       
 
