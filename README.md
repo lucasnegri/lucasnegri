@@ -6,7 +6,7 @@
 
 - ✨ Focused on specializing to enter the job market.
 - 🇵🇹   Knowledge in English, portuguese and spanish.
-- 🌱 Learning Javascript > TypeScript > React.Js/Bootstrap
+- 🌱 Learning Js/Python > TypeScript > React.Js
 
 
 #### BIO
@@ -38,7 +38,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://icons-for-free.com/download-icon-file+sql+icon-1320183612970878250_512.png" />
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/220px-Django_logo.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" />
+<img align="left" alt="Python" width="26px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+django-1324451277244670707.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
