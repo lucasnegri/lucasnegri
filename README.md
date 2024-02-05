@@ -18,12 +18,13 @@
       -Responsive Web Design / FreeCodeCamp  
       -Front-end / Alura  
       -CS50x: Introduction to Computer Science / Harvard  
-      -CS50w: Web Programming with Python and JavaScript 
+      -CS50w: Web Programming with Python and JavaScript
+      -UX Design Specialization / Google
+      -Project Management Specialization / Google    
       
       
-
 - 📑 At moment:  
-      -CS50w: Web Programming with Python and JavaScript / Harvard      
+      -CS50b: Computer Science for Business Professionals / Harvard      
  
       
       
