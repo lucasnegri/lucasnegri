@@ -26,6 +26,7 @@ I care about building intentional digital experiences — polished on the surfac
 
 ## Connect
 
+- [Portfolio](https://lucasnegri.dev/)
 - [LinkedIn](https://www.linkedin.com/in/lucas-negrii)
 
 ---
